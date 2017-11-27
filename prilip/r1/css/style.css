@@ -2051,7 +2051,7 @@ textarea.w-input, textarea.w-select {
 }
 .navbar .navbar-nav  li {
     font-size: 16px;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
 }
 .navbar .navbar-nav li:nth-child(3){
