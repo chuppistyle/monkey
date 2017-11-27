@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c12a52a-26b4-4210-9e13-d44e39479997" name="Default" comment="top m">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/ObelixProB-cyr.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/ObelixProB-cyr.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/ObelixProB-cyr.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/Obelix_Pro_Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/ObelixProB-cyr.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/ObelixProB-cyr.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/ObelixProB-cyr.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/demo-files/fonts2u_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb4916899ef10001057060_blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb4b615fbcd6000131b766_Section1_img1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb4d88956fc0000182bd59_Section1_img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb4ddad7d51800012ed6ae_Section1_trava2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb529a5fbcd6000131bc8b_Palma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb57314c2e3f0001501b13_price_none.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f4cd7d51800012ee77b_Section2_img1.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f4d899ef10001057dec_Section2_img6.3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f4d899ef10001057ded_Section2_img1.3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f4d956fc0000182d276_Section2_img2.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f505fbcd6000131c4eb_Section2_img3.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f50899ef10001057df0_Section2_img3.3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f50956fc0000182d280_Section2_img4.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f50d7d51800012ee77e_Section2_img2.3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f52956fc0000182d281_Section2_img4.3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f52956fc0000182d282_Section2_img5.3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f52d7d51800012ee780_Section2_img6.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb5f52e4dab000012d9074_Section2_img5.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6bb0899ef100010585ba_Section2_img9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6bb14c2e3f00015027a6_Section2_img8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6bb15fbcd6000131cb76_Section2_img7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6c9b4c2e3f00015027ff_pattern-3525.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6e8e899ef10001058716_Section3_ikon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6e8e956fc0000182e048_Section3_ikon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6e8f5fbcd6000131ccd9_Section3_ikon6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6e8fd7d51800012ef036_Section3_ikon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6e92899ef10001058717_Section3_ikon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb6e92e4dab000012d9a78_Section3_ikon5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb78764c2e3f000150316e_Section3_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7876956fc0000182e7d6_Section3_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7876d7d51800012ef7e4_Section3_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7876e4dab000012da1e8_Section3_img9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7879899ef10001058ee2_Section3_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7879956fc0000182e7db_Section3_img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7879e4dab000012da1ec_Section3_img8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb787ae4dab000012da1ed_Section3_img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb7be9d7d51800012ef949_Section1_img1.2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb861d5fbcd6000131dbc8_Coments_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb861d899ef10001059708_Coments_img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb861d956fc0000182f1d2_Coments_img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb861dd7d51800012eff68_Coments_img14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb8621899ef1000105970f_Coments_img8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb8621e4dab000012dada6_Coments_img7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb86224c2e3f00015038ad_Coments_img13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb8914956fc0000182f4f2_Section8_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/59cb9993956fc0000182fe8e_Section9_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/spinner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/spinner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/spinner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/images/spinner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/prilip.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/.idea/prilip.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/ObelixProB-cyr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/desktop.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/ObelixProB-cyr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/fonts/obelix_pro_bold/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/r1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/shared/form.incomplete.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/shared/form.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prilip/shared/main.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prilip/r1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="116" column="55" lean-forward="true" selection-start-line="116" selection-start-column="55" selection-end-line="116" selection-end-column="55" />
+              <folding>
+                <element signature="e#148#2615#0" expanded="false" />
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#22078#22085#1" expanded="true" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prilip/r1/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="2085" column="27" lean-forward="false" selection-start-line="2085" selection-start-column="27" selection-end-line="2085" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header_me</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/prilip/r1/css/style.css" />
+        <option value="$PROJECT_DIR$/prilip/r1/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="prilip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prilip" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="prilip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prilip" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="prilip" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c12a52a-26b4-4210-9e13-d44e39479997" name="Default" comment="" />
+      <created>1511804976749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511804976749</updated>
+      <workItem from="1511804978128" duration="8715000" />
+    </task>
+    <task id="LOCAL-00001" summary="top menu">
+      <created>1511813550177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511813550177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8715000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12153518" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Get Gist" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="top menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="top menu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/prilip/r1/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="2085" column="27" lean-forward="false" selection-start-line="2085" selection-start-column="27" selection-end-line="2085" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prilip/r1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="116" column="55" lean-forward="true" selection-start-line="116" selection-start-column="55" selection-end-line="116" selection-end-column="55" />
+          <folding>
+            <element signature="e#148#2615#0" expanded="false" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#22078#22085#1" expanded="true" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
